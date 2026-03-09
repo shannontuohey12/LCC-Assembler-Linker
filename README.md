@@ -1,9 +1,9 @@
-# 🖥️ LCC Projects – Assembler & Linker
+# LCC Projects – Assembler & Linker
 
 This repo contains C projects for the LCC course: an Assembler (a1.c) and a Linker (l.c).
 Perfect for learning how your code goes from human-readable C/assembly to machine instructions!
 
-## 📝 Files
+## Files
 
 ### a1.c – Assembler
 
